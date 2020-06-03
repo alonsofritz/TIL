@@ -1,2 +1,3 @@
 # TIL
-Today i Learn
+## Categories
+- [Typescript](https://github.com/alonsofritz/TIL/tree/master/Typescript)
