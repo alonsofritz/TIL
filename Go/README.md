@@ -19,5 +19,10 @@ In Go, the error will always be something explicit when working with functions. 
 
 ## Good habits
 - Whenever exporting methods, variables and/or functions, it is interesting to add a comment/documentation about the method to be exported, in order to provide documentation about the responsibilities of the exported target. You should always start the comment with the name of the method, that way it recognizes the documentation format.
-#
+
+## Index
+- [Introduction](https://github.com/alonsofritz/TIL/tree/master/Go/hello-go)
+- [Error Handling](https://github.com/alonsofritz/TIL/tree/master/Go/error-handling-go)
+
+##
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/alonsofritz/TIL/tree/master/Go/README.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/alonsofritz/TIL/tree/master/Go/README.pt-br.md)

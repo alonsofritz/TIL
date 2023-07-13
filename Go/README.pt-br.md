@@ -19,3 +19,10 @@ Em Go, o erro sempre será algo explícito no momento em que trabalharmos com fu
 
 ## Bons hábitos
 - Sempre que exportar métodos, variáveis e/ou funções, é interessante adicionar um comentário/documentação sobre o método a ser exportado, de forma a prover uma documentação sobre as responsabilidades do alvo exportado. Deve-se sempre inicar o comentário com o nome do método, dessa forma ele reconhece o formato de documentação.
+
+## Index
+- [Introdução: Hello World](https://github.com/alonsofritz/TIL/tree/master/Go/hello-go)
+- [Tratamento de Erros](https://github.com/alonsofritz/TIL/tree/master/Go/error-handling-go)
+
+##
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/alonsofritz/TIL/tree/master/Go/README.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/alonsofritz/TIL/tree/master/Go/README.pt-br.md)
