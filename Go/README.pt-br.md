@@ -106,7 +106,7 @@ Perceba que a estrutura para declarar a função muda ligeiramente, de forma que
 ## Bons hábitos
 - Sempre que exportar métodos, variáveis e/ou funções, é interessante adicionar um comentário/documentação sobre o método a ser exportado, de forma a prover uma documentação sobre as responsabilidades do alvo exportado. Deve-se sempre inicar o comentário com o nome do método, dessa forma ele reconhece o formato de documentação.
 
-## Source Code
+## Códigos Fonte
 - [Introdução: Hello World](https://github.com/alonsofritz/TIL/tree/master/Go/hello-go)
 - [Tratamento de Erros](https://github.com/alonsofritz/TIL/tree/master/Go/error-handling-go)
 - [Funções e Métodos](https://github.com/alonsofritz/TIL/tree/master/Go/functions-go)

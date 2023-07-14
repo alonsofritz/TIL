@@ -106,7 +106,7 @@ Notice that the structure for declaring the function changes slightly, so that w
 ## Good habits
 - Whenever exporting methods, variables and/or functions, it is interesting to add a comment/documentation about the method to be exported, in order to provide documentation about the responsibilities of the exported target. You should always start the comment with the name of the method, that way it recognizes the documentation format.
 
-## Index
+## Source Codes
 - [Introduction](https://github.com/alonsofritz/TIL/tree/master/Go/hello-go)
 - [Error Handling](https://github.com/alonsofritz/TIL/tree/master/Go/error-handling-go)
 - [Functions](https://github.com/alonsofritz/TIL/tree/master/Go/functions-go)
