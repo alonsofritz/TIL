@@ -1,0 +1,3 @@
+[submodule "Go/simple-http-server-go"]
+	path = Go/simple-http-server-go
+	url = https://github.com/alonsofritz/simple-http-server-go.git
