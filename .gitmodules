@@ -1,6 +1,0 @@
-[submodule "Go/simple-http-server-go"]
-	path = Go/simple-http-server-go
-	url = https://github.com/alonsofritz/simple-http-server-go.git
-[submodule "Unity/simple-arcade3d-unity"]
-	path = Unity/simple-arcade3d-unity
-	url = https://github.com/alonsofritz/simple-arcade3d-unity
